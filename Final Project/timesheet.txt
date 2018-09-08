@@ -1,0 +1,23 @@
+TP1
+
+Time spent working on creating modes and drawing out soccer field --> 8hrs
+Time spent on coming up with rules and controls for the game --> 2hr
+Time spent on developing first level of the game --> 3hrs
+Time spent on developing second level of the game --> 7hrs
+
+TP2
+
+Time spent on developing debugging and making second level of the game more sophisticated --> 3hrs
+Time spent on making defender in the second level intelligent --> 5hrs
+Time spent on developing clearing of ball for defender --> 1hr
+Time spent on developing foundational functions and gameplay rules for 3rd level --> 2hrs
+Time spent on developing random movement of players for third level --> 1hr
+
+
+TP3
+
+Time spent on cleaning up code and getting rid of redundant functions and lines --> 3hrs
+Time spent on implementing 3rd level game AI and gameplay --> 10hrs
+Time spent on creating objective, hint screens --> 3hrs
+Time spent on creating score and pass limitations feature --> 2hrs
+Time spent on creating Game Statistics --> 3hrs
