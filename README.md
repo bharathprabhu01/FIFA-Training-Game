@@ -1,4 +1,4 @@
-FIFA Training Game
+**FIFA Training Game**
 
 This is a term project built for a programming class at CMU. This training game has 3 levels (each more difficult than the previous) where the player (you) will have to score a goal within a limited number of passes set in the game.
 
